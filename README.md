@@ -4,7 +4,6 @@ Requires a WiiIR sensor, 25mhz sine wave clock source at 3.3v, [IRVision library
 _"THE BEER-WARE LICENSE" (Revision 42):
 Arsenio Dev wrote this file.  As long as you retain this notice you
 can do whatever you want with this stuff. If we meet some day, and you think
-this stuff is worth it, you can buy me a beer in return.
+this stuff is worth it, you can buy me a beer in return._
 
-[![Demo](https://giant.gfycat.com/FixedDisfiguredAndeancockoftherock.gif "Demo")]
-
+![Demo](https://github.com/ArsenioDev/MAX7219-WiiIR-Coords/blob/master/FixedDisfiguredAndeancockoftherock.gif?)
